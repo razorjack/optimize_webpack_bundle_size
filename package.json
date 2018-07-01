@@ -3,6 +3,7 @@
   "private": true,
   "dependencies": {
     "@rails/webpacker": "3.5",
+    "babel-plugin-lodash": "^3.3.4",
     "babel-preset-react": "^6.24.1",
     "lodash": "^4.17.10",
     "moment": "^2.22.2",
@@ -21,6 +22,7 @@
     "eslint-plugin-prettier": "^2.6.1",
     "eslint-plugin-react": "^7.10.0",
     "prettier": "^1.13.7",
+    "webpack-bundle-analyzer": "^2.13.1",
     "webpack-dev-server": "2.11.2"
   }
 }
